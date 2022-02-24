@@ -35,9 +35,9 @@
     "share_twitter": true,
     "share_pinterest": true,
     "social_twitter_link": "",
-    "social_facebook_link": "http:\/\/facebook.com\/foxstarkishere",
+    "social_facebook_link": "https:\/\/www.facebook.com\/chinglingsbr",
     "social_pinterest_link": "",
-    "social_instagram_link": "http:\/\/instagram.com\/foxstarkishere",
+    "social_instagram_link": "",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
     "social_youtube_link": "",
@@ -68,7 +68,6 @@
         "type": "header",
         "settings": {
           "align_logo": "left",
-          "logo": "shopify:\/\/shop_images\/1.2-Logo_vertical.png",
           "logo_max_width": "260",
           "main_linklist": "main-menu",
           "phone_text": "+1-800-806-0716",
@@ -84,7 +83,6 @@
       "hero": {
         "type": "hero",
         "settings": {
-          "image": "shopify:\/\/shop_images\/photo-1484081064812-86e90e107fa8.jpg",
           "alignment": "center",
           "title": "Check out our new collections.",
           "text": "<p>Save up to 50% on selected items!<\/p>",
@@ -99,7 +97,7 @@
         "settings": {
           "footer_linklist": "footer",
           "footer_linklist_two": "",
-          "phone_text": "+1-800-806-0716",
+          "phone_text": "(54) 996994079",
           "footer_newsletter_enable": false,
           "show_payment_icons": true
         }
@@ -143,6 +141,7 @@
       },
       "1508981222613": {
         "type": "collection-list",
+        "disabled": true,
         "blocks": {
           "1508981222613-0": {
             "type": "featured_collection",
@@ -229,9 +228,9 @@
     },
     "content_for_index": [
       "hero",
+      "1509357672432",
       "1508981222613",
       "1509357808487",
-      "1509357672432",
       "1495554487076"
     ]
   },
@@ -262,7 +261,8 @@
       "sections": {
         "header": {
           "type": "header",
-          "settings": {}
+          "settings": {
+          }
         },
         "hero": {
           "type": "hero",
@@ -275,18 +275,21 @@
           "blocks": {
             "slideshow-0": {
               "type": "image",
-              "settings": {}
+              "settings": {
+              }
             },
             "slideshow-1": {
               "type": "image",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
             "slideshow-0",
             "slideshow-1"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "featured-collections": {
           "type": "collection",
@@ -296,7 +299,8 @@
         },
         "feature-row": {
           "type": "feature-row",
-          "settings": {}
+          "settings": {
+          }
         },
         "footer": {
           "type": "footer",
