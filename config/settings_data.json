@@ -68,16 +68,17 @@
         "type": "header",
         "settings": {
           "align_logo": "left",
-          "logo_max_width": "260",
+          "logo": "shopify:\/\/shop_images\/logo.png",
+          "logo_max_width": "100",
           "main_linklist": "main-menu",
-          "phone_text": "+1-800-806-0716",
-          "message": false,
-          "message_text": "TODAY: Worldwide shipping only $2.95 ❤",
+          "phone_text": "(54) 996994079",
+          "message": true,
+          "message_text": "Frete GRÁTIS para todo Brasil ❤",
           "banner_text": "Want 5% DISCOUNT? Use discount code FOX5. Valid for 10 minutes.",
           "message_link": "",
           "colorbanner_bg": "#53d410",
-          "color_bg": "#000000",
-          "color_text": "#ffffff"
+          "color_bg": "#53d410",
+          "color_text": "#000000"
         }
       },
       "hero": {
