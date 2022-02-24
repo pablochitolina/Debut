@@ -196,12 +196,12 @@
       "1509357672432": {
         "type": "collection",
         "settings": {
-          "title": "Collection of the day",
-          "collection": "christmas-gifts-decorations",
+          "title": "Trending",
+          "collection": "frontpage",
           "grid": "3",
           "rows": "2",
           "show_vendor": false,
-          "show_view_all": false
+          "show_view_all": true
         }
       },
       "1509357808487": {
